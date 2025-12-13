@@ -1,0 +1,2 @@
+# kumaku-assets
+LG
